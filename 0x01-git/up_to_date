@@ -1,0 +1,10 @@
+git clone https://{token}@github.com/username/repository
+git config --global user.email "e.mail"
+git config --global user.name "name"
+git add .
+git commit -m "comment"
+git push 
+git branch file_name
+git branch -a
+git checkout file_name
+git pull
